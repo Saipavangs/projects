@@ -1,2 +1,0 @@
-import mainfunderstand
-print("hi")
