@@ -1,0 +1,2 @@
+import mainfunderstand
+print("hi")
